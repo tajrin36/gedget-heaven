@@ -1,0 +1,17 @@
+[
+  {
+    "product_id": 1,
+    "category": "Laptop",
+    "slug": "laptop"
+  },
+  {
+    "product_id": 2,
+    "category": "Accessories",
+    "slug": "accessories"
+  },
+  {
+    "product_id": 3,
+    "category": "Phone",
+    "slug": "phone"
+  }
+]

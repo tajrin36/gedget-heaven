@@ -1,0 +1,162 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "ACER Laptop ",
+    "product_image": "https://m.media-amazon.com/images/I/61gKkYQn6lL._AC_SX355_.jpg",
+    "category": "Laptop",
+    "price": 899.99,
+    "description": "A lightweight, ultra-slim laptop with powerful performance and long battery life.",
+    "Specification": [
+      "Processor: Intel i7",
+      "RAM: 16GB",
+      "Storage: 512GB SSD",
+      "Battery Life: 12 hours"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 2,
+    "product_title": "DUNHOO YEPBOOK",
+    "product_image": "https://m.media-amazon.com/images/I/71NxoM8RlsL._AC_SY355_.jpg",
+    "category": "Laptop",
+    "price": 1499.99,
+    "description": "A high-performance gaming laptop with advanced cooling and RGB keyboard.",
+    "Specification": [
+      "Processor: AMD Ryzen 9",
+      "RAM: 32GB",
+      "Storage: 1TB SSD",
+      "Graphics: NVIDIA RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 3,
+    "product_title": "Lenovo Flex 5i",
+    "product_image": "https://m.media-amazon.com/images/I/81hCcOcSa9L._AC_SY355_.jpg",
+    "category": "Laptop",
+    "price": 749.99,
+    "description": "2-in-1 convertible laptop with touchscreen functionality for versatile use.",
+    "Specification": [
+      "Processor: Intel i5",
+      "RAM: 8GB",
+      "Storage: 256GB SSD",
+      "Touchscreen: Yes"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 4,
+    "product_title": "ACER Aspire Go 15",
+    "product_image": "https://m.media-amazon.com/images/I/71wKJVtV-+L._AC_SY355_.jpg",
+    "category": "Laptop",
+    "price": 599.99,
+    "description": "Affordable work laptop with a reliable performance and sleek design.",
+    "Specification": [
+      "Processor: Intel i3",
+      "RAM: 8GB",
+      "Storage: 256GB SSD",
+      "Battery Life: 8 hours"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 5,
+    "product_title": "HP-TPN-I139_320M3AV",
+    "product_image": "https://m.media-amazon.com/images/I/61TGRBGTNzL._AC_SY355_.jpg",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "Premium business laptop with top-tier security features and fast processing.",
+    "Specification": [
+      "Processor: Intel i7",
+      "RAM: 16GB",
+      "Storage: 1TB SSD",
+      "Security: Fingerprint Scanner"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 6,
+    "product_title": "HP-Chromebook 11a",
+    "product_image": "https://m.media-amazon.com/images/I/81EY2GIfktL._AC_SX466_.jpg",
+    "category": "Laptop",
+    "price": 849.99,
+    "description": "Compact travel-friendly laptop with durable build and impressive performance.",
+    "Specification": [
+      "Processor: Intel i5",
+      "RAM: 8GB",
+      "Storage: 512GB SSD",
+      "Weight: 2.5 lbs"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 7,
+    "product_title": "Btootos",
+    "product_image": "https://m.media-amazon.com/images/I/71sWRy5QxIL._AC_SY355_.jpg",
+    "category": "Accessories",
+    "price": 159.99,
+    "description": "Compact earbuds with noise-cancelling technology and superior sound quality.",
+    "Specification": [
+      "Battery Life: 20 hours",
+      "Noise Cancellation: Yes",
+      "Bluetooth: 5.2",
+      "Water-Resistant: Yes"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 8,
+    "product_title": "INIU",
+    "product_image": "https://m.media-amazon.com/images/I/513YDGoJmLL._AC_SY355_.jpg",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "Fast-charging power bank with high capacity for charging multiple devices.",
+    "Specification": [
+      "Capacity: 20,000mAh",
+      "Fast Charging: Yes",
+      "Ports: USB-C, USB-A",
+      "LED Indicator: Yes"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 9,
+    "product_title": "UMIDIGI Android 14",
+    "product_image": "https://m.media-amazon.com/images/I/71MC3EN6IoL._AC_SX522_.jpg",
+    "category": "Phone",
+    "price": 999.99,
+    "description": "Flagship smartphone with 5G connectivity and a stunning OLED display.",
+    "Specification": [
+      "Display: 6.7-inch OLED",
+      "Camera: Triple 48MP",
+      "RAM: 12GB",
+      "Storage: 256GB"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 10,
+    "product_title": "Motorola Android 13.0",
+    "product_image": "https://m.media-amazon.com/images/I/61vgbLrWDyL._AC_SX425_.jpg",
+    "category": "Phone",
+    "price": 499.99,
+    "description": "Affordable mid-range phone with excellent performance and battery life.",
+    "Specification": [
+      "Display: 6.5-inch LCD",
+      "Camera: Dual 16MP",
+      "RAM: 6GB",
+      "Storage: 128GB"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
